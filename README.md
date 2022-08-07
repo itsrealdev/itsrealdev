@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ** my masters  in computer science**<br><br>🌱 I’m currently learning Python, Blazor<br><br>📝 I regularly write articles on https://dev.to/itsrealdev<br><br>💬 Ask me about DotNet, Angular, TypeScript<br><br>📫 How to reach me itsmrealdev@gmail.com
+🔭 I’m currently working on **my masters  in computer science** <br><br>🌱 I’m currently learning Python, Blazor<br><br>📝 I regularly write articles on https://dev.to/itsrealdev<br><br>💬 Ask me about DotNet, Angular, TypeScript<br><br>📫 How to reach me itsmrealdev@gmail.com
 
 
 ## 🌐 Socials:
